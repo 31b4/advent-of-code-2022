@@ -30,4 +30,14 @@
         <td>3230</td>
         <td>0</td>
     </tr>
+    <tr>
+        <td>2</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
 </table>
