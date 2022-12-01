@@ -1,4 +1,4 @@
-# advent-of-code-2022
+# advent-of-code-2022 (copy paste = 🤡)
 <table>
     <tr>
         <td></td>
