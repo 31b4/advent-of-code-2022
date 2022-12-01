@@ -12,11 +12,5 @@ asd= sorted(asd)
 asd.reverse()    
 part2= asd[0]+asd[1]+asd[2]
 
-
 print(f"part 1: {part1}")
 print(f"part 1: {part2}")
-
-
-
-
-
