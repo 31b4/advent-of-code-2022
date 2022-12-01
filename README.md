@@ -21,7 +21,7 @@
         <td>Score</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day01/main.py"></a></td>
         <td>00:03:50 </td>
         <td>1777</td>
         <td>0</td>
@@ -124,6 +124,154 @@
         <td>11</td>
         <td>-</td>
         <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+
+</table>
         <td>-</td>
         <td></td>
         <td>-</td>
