@@ -1,4 +1,4 @@
-# advent-of-code-2022 (copy paste = 🤡)
+# advent-of-code-2022
 <table>
     <tr>
         <td></td>
@@ -32,13 +32,13 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:24:43</td>
+        <td>9898</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:27:58</td>
+        <td>7463</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>3</td>
