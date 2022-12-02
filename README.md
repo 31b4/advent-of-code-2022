@@ -31,7 +31,7 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day02/main.py">2</a></td>
         <td>00:24:43</td>
         <td>9898</td>
         <td>0</td>
