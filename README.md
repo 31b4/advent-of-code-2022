@@ -41,14 +41,14 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day03/main.py">3</a></td>
+        <td>00:20:49</td>
+        <td>7515</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:27:29</td>
+        <td>5949</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>4</td>
