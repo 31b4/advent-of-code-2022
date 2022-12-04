@@ -51,14 +51,14 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>4</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day04/main.py">4</a></td>
+        <td>00:08:59</td>
+        <td>3988</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:13:54</td>
+        <td>4266</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>5</td>
