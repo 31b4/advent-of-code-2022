@@ -3,7 +3,7 @@ with open("input.txt") as f:
     raw_stacks, raw_lines = f.read().split("\n\n")
     lines = raw_lines.splitlines()
 
-def StacksConverter(stacksCount):
+def StacksConverter(stacksCount): #[[A,B],[C,D]] by stack bottom to top
     stacks = [[] for _ in range(stacksCount)]  # stacksCount * []
     stacks2 = [[] for _ in range(stacksCount)]  
     for row in raw_stacks.splitlines()[-2::-1]:
@@ -13,7 +13,7 @@ def StacksConverter(stacksCount):
                 stacks2[i].append(c)
     return stacks,stacks2
 
-def LinesConverter():
+def LinesConverter(): #[[2,1,3],[1,2,1]] steps
     steps = []
     for line in lines:
         _,m,_,f,_,t = line.split()#move,n,from,s,to,d
