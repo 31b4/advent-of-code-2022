@@ -6,8 +6,8 @@ with open("input.txt") as f:
 def StacksConverter(stacksCount): #[[A,B],[C,D]] by stack bottom to top
     stacks = [[] for _ in range(stacksCount)]  # stacksCount * []
     stacks2 = [[] for _ in range(stacksCount)]  
-    for row in raw_stacks.splitlines()[-2::-1]:
-        for i,c in enumerate(row[1::4]):
+    for row in raw_stacks.splitlines()[-2::-1]:#reverse without numbers (1 2 3 4 5)
+        for i,c in enumerate(row[1::4]):#from 1 every 4th item
             if c!=" ": 
                 stacks[i].append(c)
                 stacks2[i].append(c)
