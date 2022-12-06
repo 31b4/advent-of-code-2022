@@ -71,14 +71,14 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>6</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day06/main.py">6</a></td>
+        <td>00:10:03</td>
+        <td>6218</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:11:10</td>
+        <td>5285</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>7</td>
