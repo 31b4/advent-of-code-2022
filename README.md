@@ -81,14 +81,14 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>7</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day07/main.py">7</a></td>
+        <td>00:49:44</td>
+        <td>4791</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>03:04:00 (at school)</td>
+        <td>14313</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>8</td>
