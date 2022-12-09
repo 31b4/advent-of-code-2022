@@ -91,24 +91,24 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>8</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day08/main.py">8</a></td>
+        <td>00:35:27</td>
+        <td>6685</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>00:46:49 (at school)</td>
+        <td>4599</td>
+        <td>0</td>
     </tr>
     <tr>
-        <td>9</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day09/main.py">9</a></td>
+        <td>00:42:50</td>
+        <td>6195</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>08:32:44 (after school)</td>
+        <td>24309</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>10</td>
