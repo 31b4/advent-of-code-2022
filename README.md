@@ -96,7 +96,7 @@
         <td>6685</td>
         <td>0</td>
         <td></td>
-        <td>00:46:49 (at school)</td>
+        <td>00:46:49</td>
         <td>4599</td>
         <td>0</td>
     </tr>
