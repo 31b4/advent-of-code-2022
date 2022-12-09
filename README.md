@@ -270,5 +270,15 @@
         <td>-</td>
         <td>-</td>
     </tr>
+    <tr>
+        <td>AVG</td>
+        <td>-</td>
+        <td>-</td>
+        <td>0</td>
+        <td></td>
+        <td>-</td>
+        <td>-</td>
+        <td>0</td>
+    </tr>
 
 </table>
