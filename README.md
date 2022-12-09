@@ -86,7 +86,7 @@
         <td>4791</td>
         <td>0</td>
         <td></td>
-        <td>03:04:00 (at school)</td>
+        <td>03:04:00</td>
         <td>14313</td>
         <td>0</td>
     </tr>
@@ -106,7 +106,7 @@
         <td>6195</td>
         <td>0</td>
         <td></td>
-        <td>08:32:44 (after school)</td>
+        <td>08:32:44</td>
         <td>24309</td>
         <td>0</td>
     </tr>
