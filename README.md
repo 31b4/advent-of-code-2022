@@ -111,24 +111,24 @@
         <td>0</td>
     </tr>
     <tr>
-        <td>10</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day10/main.py">10</a></td>
+        <td>00:30:40</td>
+        <td>6454</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>02:25:49</td>
+        <td>11688</td>
+        <td>0</td>
     </tr>
     <tr>
-        <td>11</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day11/main.py">11</a></td>
+        <td>08:21:33</td>
+        <td>26774</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>11:25:00</td>
+        <td>24875</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>12</td>
