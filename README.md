@@ -1,5 +1,6 @@
 # advent-of-code-2022
 # advent-of-code-2022
+# advent-of-code-2022
 <table>
     <tr>
         <td>🎄</td>
@@ -66,7 +67,7 @@
         <td>00:34:14</td>
         <td>6541</td>
         <td>🏅</td>
-        <td></td>
+        <td>00:27:56</td>
         <td>01:02:10</td>
         <td>10202</td>
         <td>🥈</td>
@@ -283,3 +284,4 @@
     </tr>
 
 </table>
+
