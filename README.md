@@ -5,7 +5,7 @@
         <td>-------</td>
         <td>Part 1</td>
         <td>--------</td>
-        <td>🎄</td>
+        <td>🎅</td>
         <td>-------</td>
         <td>Part 2</td>
         <td>-------</td>
@@ -15,7 +15,7 @@
         <td>Time</td>
         <td>Rank</td>
         <td>Score</td>
-        <td>🎅</td>
+        <td></td>
         <td>Time</td>
         <td>Rank</td>
         <td>Score</td>
