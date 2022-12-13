@@ -1,7 +1,5 @@
 # advent-of-code-2022
-<style>
-        td{text-align: center;}
-</style>
+
 <table>
     <tr>
         <td>🎄</td>
@@ -285,3 +283,6 @@
     </tr>
 
 </table>
+<style>
+        td{text-align: center;}
+</style>
