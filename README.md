@@ -15,7 +15,7 @@
         <td>Time</td>
         <td>Rank</td>
         <td>Score</td>
-        <td></td>
+        <td>🏅</td>
         <td>Time</td>
         <td>Rank</td>
         <td>Score</td>
@@ -35,7 +35,7 @@
         <td>00:24:43</td>
         <td>9898</td>
         <td>0</td>
-        <td></td>
+        <td>🥉</td>
         <td>00:27:58</td>
         <td>7463</td>
         <td>0</td>
@@ -45,7 +45,7 @@
         <td>00:20:49</td>
         <td>7515</td>
         <td>0</td>
-        <td></td>
+        <td>🥉</td>
         <td>00:27:29</td>
         <td>5949</td>
         <td>0</td>
@@ -55,7 +55,7 @@
         <td>00:08:59</td>
         <td>3988</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>00:13:54</td>
         <td>4266</td>
         <td>0</td>
@@ -65,7 +65,7 @@
         <td>00:34:14</td>
         <td>6541</td>
         <td>0</td>
-        <td></td>
+        <td>🥈</td>
         <td>01:02:10</td>
         <td>10202</td>
         <td>0</td>
@@ -75,7 +75,7 @@
         <td>00:10:03</td>
         <td>6218</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>00:11:10</td>
         <td>5285</td>
         <td>0</td>
@@ -85,7 +85,7 @@
         <td>00:49:44</td>
         <td>4791</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>03:04:00</td>
         <td>14313</td>
         <td>0</td>
@@ -95,7 +95,7 @@
         <td>00:35:27</td>
         <td>6685</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>00:46:49</td>
         <td>4599</td>
         <td>0</td>
@@ -105,7 +105,7 @@
         <td>00:42:50</td>
         <td>6195</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>08:32:44</td>
         <td>24309</td>
         <td>0</td>
@@ -115,7 +115,7 @@
         <td>00:30:40</td>
         <td>6454</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>02:25:49</td>
         <td>11688</td>
         <td>0</td>
@@ -125,27 +125,27 @@
         <td>08:21:33</td>
         <td>26774</td>
         <td>0</td>
-        <td></td>
+        <td>🥈</td>
         <td>11:25:00</td>
         <td>24875</td>
         <td>0</td>
     </tr>
     <tr>
-        <td>12</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+       <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day12/main.py">12</a></td>
+        <td>09:22:31</td>
+        <td>19883</td>
+        <td>0</td>
+        <td>🥈</td>
+        <td>09:42:50</td>
+        <td>19325</td>
+        <td>0</td>
     </tr>
     <tr>
         <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day13/main.py">13</a></td>
         <td>07:14:53</td>
         <td>16085</td>
         <td>0</td>
-        <td></td>
+        <td>🏅</td>
         <td>07:52:44</td>
         <td>19325</td>
         <td>0</td>
