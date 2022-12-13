@@ -141,14 +141,14 @@
         <td>-</td>
     </tr>
     <tr>
-        <td>13</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day13/main.py">13</a></td>
+        <td>07:14:53</td>
+        <td>16085</td>
+        <td>0</td>
         <td></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>07:52:44</td>
+        <td>19325</td>
+        <td>0</td>
     </tr>
     <tr>
         <td>14</td>
