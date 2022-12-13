@@ -283,6 +283,4 @@
     </tr>
 
 </table>
-<style>
-        td{text-align: center;}
-</style>
+
