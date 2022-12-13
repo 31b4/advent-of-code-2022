@@ -1,7 +1,7 @@
 # advent-of-code-2022
 <table>
     <tr>
-        <td></td>
+        <td>🎄</td>
         <td>-------</td>
         <td>Part 1</td>
         <td>--------</td>
