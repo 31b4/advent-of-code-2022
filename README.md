@@ -163,13 +163,13 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day15/main.py">15</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">08:16:14</td>
+        <td align="center">16286</td>
+        <td align="center">🥉</td>
+        <td align="center">03:58:28</td>
+        <td align="center">12:14:42</td>
+        <td align="center">14233</td>
+        <td align="center">🥈</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day16/main.py">16</a></td>
