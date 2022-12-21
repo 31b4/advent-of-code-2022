@@ -222,7 +222,7 @@
         <td align="center">🏅🥈</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day21/p1.py">21</a></td>
+        <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day21">21</a></td>
         <td align="center">05:17:57</td>
         <td align="center">9736</td>
         <td align="center">🏅</td>
