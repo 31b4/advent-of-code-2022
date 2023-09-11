@@ -53,6 +53,8 @@ def Part1(grid):
         for line in grid:
             print("".join(line))
         print("")
+    # eloszor lefutnak a lepesek es utanna iratom ki hogy ki hol van, ahol tobben
+    # vannak ott db szamot irok
 if __name__ == '__main__':
     grid = ReadAll()
     Part1(grid)
