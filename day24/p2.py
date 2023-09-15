@@ -1,6 +1,8 @@
 from math import lcm
 from heapq import heappop, heappush
 import copy
+import time
+
 # -5: # -4: right -3: left -2: down -1: up 0: space 1,2,3 ect: occupy
 def ReadAll():
     with open("input.txt") as f:
@@ -104,23 +106,28 @@ def Occupied(loc, st):
 def PathFinder(states,n,m,period):
     start = (0,1)
     end = (n-1,m-2)
-    pq = [(0, start)]
+    pq = [(0, start, False, False)]
     visited = set()
     while len(pq) > 0:
         top = heappop(pq)
         if top in visited:
             continue
         visited.add(top)
-        t, loc = top
+        t, loc, hit_end, hit_start = top
         row, col = loc
 
-
+        assert not (hit_start and not hit_end)
         assert not Occupied(loc, states[t % period])
         print(loc)
         if loc == end:
+            if hit_end and hit_start:
+                return t
 
-            print("done",t)
-            break
+            hit_end = True
+
+        if loc == start:
+            if hit_end:
+                hit_start = True
             # Go through neighbors
 
         dirs = [[0, 1], [1, 0], [0, -1], [-1, 0]]
@@ -138,12 +145,14 @@ def PathFinder(states,n,m,period):
             if Occupied(new_loc, states[(t + 1) % period]):
                 continue
 
-            new_state = (t + 1, new_loc)
+            new_state = (t + 1, new_loc, hit_end, hit_start)
             heappush(pq, new_state)
 
 
 
 def Part1(grid):
+    
+
     blizzards = []
     for y,line in enumerate(grid):
         for x,e in enumerate(line):
@@ -168,10 +177,15 @@ def Part1(grid):
         sv_blizzards = copy.deepcopy(blizzards)
         states.append((sv_blizzards))
     #print(states[0][0].y, states[0][0].x, states[0][0].dir)
-    PathFinder(states, len(grid), len(grid[0]),period)
+    print(PathFinder(states, len(grid), len(grid[0]),period))
 
 
 if __name__ == '__main__':
+    start_time = time.time()
+
     grid = ReadAll()
     Part1(grid)
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"Elapsed time: {elapsed_time:.2f} seconds")
 
