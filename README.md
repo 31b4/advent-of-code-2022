@@ -235,11 +235,11 @@
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day22/main.py">22</a></td>
         <td align="center">>24h</td>
         <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">🥈</td>
         <td align="center">?</td>
         <td align="center">>24h</td>
         <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">🥈</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day23/main.py">23</a></td>
