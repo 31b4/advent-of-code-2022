@@ -243,32 +243,32 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day23/main.py">23</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">>24h</td>
+        <td align="center">14723</td>
+        <td align="center">🥈</td>
+        <td align="center">?</td>
+        <td align="center">>24h</td>
+        <td align="center">14506</td>
+        <td align="center">🥈</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day24/main.py">24</a></td>
+        <td align="center">>24h</td>
+        <td align="center">15999</td>
+        <td align="center">🥈</td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">15778</td>
+        <td align="center">>24h</td>
+        <td align="center">🥈</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day25/main.py">25</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">>24h</td>
+        <td align="center">14219</td>
+        <td align="center">🏅</td>
+        <td align="center">?</td>
+        <td align="center">>24h</td>
+        <td align="center"></td>
         <td align="center">🏅🥈</td>
     </tr>
     <tr>
