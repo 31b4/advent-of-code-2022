@@ -216,10 +216,10 @@
         <td align="center">07:20:23</td>
         <td align="center">7160</td>
         <td align="center">🏅</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">🏅🥈</td>
+        <td align="center">?</td>
+        <td align="center">>24h</td>
+        <td align="center">15011</td>
+        <td align="center">🥈</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2022/blob/main/day21">21</a></td>
@@ -256,7 +256,7 @@
         <td align="center">>24h</td>
         <td align="center">15999</td>
         <td align="center">🥈</td>
-        <td align="center">-</td>
+        <td align="center">?</td>
         <td align="center">15778</td>
         <td align="center">>24h</td>
         <td align="center">🥈</td>
